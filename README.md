@@ -1,4 +1,4 @@
-# Discord Digital Bot
+# Discord Payments Bot
 
 An open-source Discord bot for selling digital goods through Mercado Pago. It verifies signed payment notifications, validates each payment against the internal order, reserves stock transactionally, and delivers one item by direct message after approval.
 
